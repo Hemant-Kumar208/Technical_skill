@@ -4,7 +4,7 @@ find the minimum time in second to make all elements of array equal.*/
 
 import java.util.Scanner;
 
-public class Equal_elements {
+public class time_to_make_elements_equal {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of elements: ");
